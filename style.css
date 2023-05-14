@@ -205,7 +205,7 @@ footer{
     width: 93%;
     margin-top: 10%;
     text-align: center;
-    background: url('Imagenes/bg.jpg');
+    background-image: url(imagenes/bg.jpg);
     padding: 40px;
 }
 .iconos-redes {
